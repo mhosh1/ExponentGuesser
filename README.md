@@ -43,7 +43,9 @@ Enter a positive real number not equal to 1.0: 3.5
 Enter a positive real number not equal to 1.0: 4.5
 
 Exponents: a = -0.5, b = 1.0, c = -1.0, d = 2.0
+
 Approximation: 2.718
+
 Relative Error: 0.00%
 
 ### Installation
