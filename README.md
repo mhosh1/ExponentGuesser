@@ -27,7 +27,7 @@ The project uses a combination of user-provided values and predefined exponents 
 
 ## Getting Started
 
-### Prerequisites
+### PrerequisitesWhat constant μ should be approximated that is a positive real number: 2.718
 
 - Java Development Kit (JDK) 8 or higher.
 
