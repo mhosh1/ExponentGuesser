@@ -32,8 +32,8 @@ The project uses a combination of user-provided values and predefined exponents 
 
 ## Example Output
 
-### Prerequisites
-What constant μ should be approximated that is a positive real number: 2.718
+### What constant μ should be approximated that is a positive real number: 2.718
+
 
 - Enter a positive real number not equal to 1.0: 1.5
 - Enter a positive real number not equal to 1.0: 2.5
